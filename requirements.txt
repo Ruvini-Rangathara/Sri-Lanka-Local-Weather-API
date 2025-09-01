@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+requests
+tqdm
+prophet
+pmdarima
+joblib
+matplotlib
